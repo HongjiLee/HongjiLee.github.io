@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "이홍지"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "위대한 인물"
   location         : "대한민국, 서울"
   email            : "21-20520@hafs.hs.kr"
